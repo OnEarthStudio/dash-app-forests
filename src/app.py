@@ -44,6 +44,7 @@ app.layout = html.Div([
                 'color': colors['B']
                 }),
     html.Br(),
+    html.Br(),
 
     html.Div([
 
